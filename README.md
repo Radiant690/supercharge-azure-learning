@@ -4,15 +4,18 @@ The Azure &amp; DevOps Learning Series will comprise a comprehensive set of post
 ## Table of contents
 # A collapsible section with markdown
 <details>
-  <summary>[Day 1](https://github.com/Radiant690/supercharge-azure-learning) 💻🔒</summary>
+  <summary> Day 1️⃣  </summary>
   
   ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
+  ➡️ Introduction to Azure
 
+    - Cloud technology overview
+    - Overview of Azure
+    - Managing Azure with the Azure portal
+    - Managing Azure with Windows PowerShell
+    - Overview of Azure Resource Manager
+    - Azure management services
+</details>
 <details>
   <summary>Day 2️⃣ </summary>
   
